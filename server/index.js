@@ -23,7 +23,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
-		origin:"https://scholarsbridge.onrender.com:3000",
+		origin:"https://scholarsbridge.onrender.com",
 		credentials:true,
 	})
 )
