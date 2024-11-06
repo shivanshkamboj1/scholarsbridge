@@ -1,6 +1,6 @@
 
 # ScholarsBridge - EdTech Platform
-:rocket: [Link to website][https://ScholarsBridge-frontend.vercel.app/]
+:rocket: [Link to website][https://ScholarsBridge.onrender.com/]
 
 
 ![Main Page](images/mainpage.png)
