@@ -1,4 +1,4 @@
-const BASE_URL = "https://scholarsbridge-backejd.onrender.com/api/v1"
+const BASE_URL = "https://scholarsbridge-9fxq.vercel.app/api/v1"
 
 // AUTH ENDPOINTS
 export const endpoints = {
