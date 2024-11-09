@@ -22,10 +22,9 @@ const About = () => {
             Driving Innovation in Online Education for a
             <HighlightText text={"Brighter Future"} />
             <p className="mx-auto mt-3 text-center text-base font-medium text-richblack-300 lg:w-[95%]">
-              ScholarsBridge is at the forefront of driving innovation in online
-              education. We're passionate about creating a brighter future by
-              offering cutting-edge courses, leveraging emerging technologies,
-              and nurturing a vibrant learning community.
+            ScholarsBridge is leading the way in online education. 
+            We're excited about building a better future by offering modern courses, 
+            using the latest technology, and supporting a lively learning community.
             </p>
           </header>
           <div className="sm:h-[70px] lg:h-[150px]"></div>
@@ -52,11 +51,9 @@ const About = () => {
                 Our Founding Story
               </h1>
               <p className="text-base font-medium text-richblack-300 lg:w-[95%]">
-                Our e-learning platform was born out of a shared vision and
-                passion for transforming education. It all began with a group of
-                educators, technologists, and lifelong learners who recognized
-                the need for accessible, flexible, and high-quality learning
-                opportunities in a rapidly evolving digital world.
+              Our e-learning platform started from a shared vision and passion for changing education. 
+              It began with a team of educators, tech experts, and lifelong learners who saw the need for learning that’s easy 
+              to access, flexible, and high-quality in today’s fast-changing digital world.
               </p>
               <p className="text-base font-medium text-richblack-300 lg:w-[95%]">
                 As experienced educators ourselves, we witnessed firsthand the
