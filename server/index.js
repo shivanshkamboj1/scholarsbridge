@@ -23,7 +23,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
-		origin:"https://scholarsbridge.vercel.app/",
+		origin:"https://scholarsbridge.vercel.app",
 		credentials:true,
 	})
 )
